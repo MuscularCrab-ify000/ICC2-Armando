@@ -1,0 +1,13 @@
+Main Page
+ARMANDO cybersecurity wiki
+One main page for each module
+Ex. Module: 0 Foundations
+# Class-01
+
+Your personal notes for each class goes here.
+
+Example:
+gitignore > this file tell Git which files or directories to ignore.
+Useful for files generated automatically and/or files containing
+sensitive information such as as passwords, usernames etc .
+
