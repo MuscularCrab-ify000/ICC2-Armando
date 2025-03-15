@@ -1,13 +1,51 @@
 Main Page
 ARMANDO cybersecurity wiki
 One main page for each module
-Ex. Module: 0 Foundations
+Module: 0 Foundations
 # Class-01
+Presentation
 
-Your personal notes for each class goes here.
+presentation of modules and colleagues
 
-Example:
-gitignore > this file tell Git which files or directories to ignore.
-Useful for files generated automatically and/or files containing
-sensitive information such as as passwords, usernames etc .
+Task
+We did a small task to find out the procedure for doing tasks
+
+# Class-02
+Computer
+
+we talk about the concept of computers and each component
+
+Task
+
+identification of an image in which we have to identify the types of components that the computer had
+
+# Class-03
+Starup sequence
+
+presentation about bios and the layers that exist when turning on the computer and a little about kernel and shell
+
+Task
+
+task was to identify some bios definitions
+
+# Class-04
+Operating systems
+
+the types of operating systems that exist, various Linux distributions. We also started working with bash, I learned some simple commands such as: echo, cat, ls, etc,...
+
+Task
+
+task was to use the basic commands we learned from bash
+
+# Class-05
+Scripting
+
+We learned how to create a script and how to make it executable.
+
+Task
+
+task was to create directories and scripts with variables
+
+
+
 
